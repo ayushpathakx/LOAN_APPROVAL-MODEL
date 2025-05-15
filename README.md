@@ -28,4 +28,4 @@ Now it opens up a Google Chrome tab:
 
 select LOAN_APPROVAL_MODEL.ipynb
 
-You can see all the code working if not work then install all the packages correctly 😊
+You can see all the code working if not work then install all the packages correctly...
