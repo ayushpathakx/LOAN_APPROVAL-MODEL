@@ -4,7 +4,7 @@
 
 Use the 'cd' command to change directory to your project folder:
 
-    cd Loan_Approval_Model
+    cd LOAN_APPROVAL_MODEL
 
 2. Install Required Libraries
 
@@ -26,6 +26,6 @@ To open Jupyter Notebook in your default browser, run:
 
 Now it opens up a Google Chrome tab:
 
-select Loan_Approval_Model.ipynb
+select LOAN_APPROVAL_MODEL.ipynb
 
 You can see all the code working if not work then install all the packages correctly 😊
